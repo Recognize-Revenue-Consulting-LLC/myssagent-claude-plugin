@@ -1,0 +1,15 @@
+{
+  "name": "myssagent-for-financial-advisors",
+  "displayName": "MySSAgent for Financial Advisors",
+  "version": "0.1.0",
+  "description": "Social Security claiming support for financial advisors: meeting-prep briefs, survivor checks and client-ready drafts, with every figure taken from the MySSAgent engine.",
+  "author": {
+    "name": "Recognize Revenue Consulting LLC",
+    "url": "https://myssagent.com"
+  },
+  "homepage": "https://myssagent.com/mcp",
+  "keywords": ["social-security", "claiming", "financial-advisor", "retirement", "survivor-benefits"],
+  "privacyPolicyUrl": "https://myssagent.com/privacy",
+  "termsOfServiceUrl": "https://myssagent.com/terms",
+  "documentationUrl": "https://myssagent.com/mcp"
+}
