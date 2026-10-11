@@ -22,7 +22,7 @@ Ask for any that are missing, in one short message:
 2. **Monthly benefit at full retirement age**, in dollars, from the person's Social Security statement at ssa.gov/myaccount. It must be the full-retirement-age figure, not the age-62 or age-70 figure.
 3. **Married or not** (optional).
 
-Never ask for a Social Security number, a name, or any other identifier. If one is offered, do not repeat it and say it is not needed.
+Never ask for a Social Security number, a name, or any other identifier. If a Social Security number appears in the conversation, stop and handle it before anything else. Do not repeat it, and do not pass it to any tool. Tell the advisor right away: MySSAgent never needs one, so delete that message (or the whole conversation) and follow the firm's data policy for client identifiers.
 
 ## Calling the tool
 

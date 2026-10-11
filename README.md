@@ -2,7 +2,7 @@
 
 A Claude plugin that brings Social Security claiming support into an advisor's day: client meeting briefs, survivor checks, plain-English client drafts, and a quick estimator for prospects. It connects to the MySSAgent connector, so every figure comes from the MySSAgent engine.
 
-Status: v0.1.0, local build. Not published and not submitted anywhere.
+Status: v0.2.0, local build. Wording, license and release order approved by Trice 2026-10-11. Not published and not submitted anywhere.
 
 ## What it does
 
@@ -37,7 +37,8 @@ The skills also never give investment, tax, or legal advice, and they present re
 
 ## Privacy
 
-- No Social Security number is collected, requested, or needed. The skills tell Claude not to repeat one if it is pasted.
+- No Social Security number is collected, requested, or needed. Never type a client's Social Security number, full date of birth, or account number into the chat. If one appears, every skill tells Claude to stop, not repeat it or pass it to any tool, and tell the advisor to delete it and follow the firm's data policy.
+- Statements are never uploaded through the plugin. Advisors upload them in the advisor dashboard, and the plugin reads what is already there.
 - The public estimator uses only a birth month and year and a benefit amount, and stores nothing.
 - Advisor tools return only your own clients. Clients are added and their statements ingested in the advisor dashboard (https://myssagent.com/advisor), not through chat.
 - `run_client_analysis` overwrites a client's stored analysis. The skills ask for a clear yes before calling it.
@@ -53,6 +54,6 @@ skills/<name>/SKILL.md       one folder per skill
 
 ## Open items before any public release
 
-- Choose a license and add a LICENSE file.
+- LICENSE added: all rights reserved, use permitted under the MySSAgent terms (approved 2026-10-11).
 - A public GitHub repository is required for directory submission. Not created yet.
-- The connector listing must be live first.
+- The connector listing must be live first (approved release order, 2026-10-11).

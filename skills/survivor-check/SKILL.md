@@ -13,6 +13,8 @@ Every Social Security figure must come from a MySSAgent tool's output. Never com
 
 Do not give investment, tax, or legal advice. Do not make compliance, regulatory, or liability statements. Do not describe the analysis as reviewed or endorsed by anyone.
 
+If a Social Security number appears in the conversation, stop and handle it before anything else. Do not repeat it, and do not pass it to any tool. Tell the advisor right away: MySSAgent never needs one, so delete that message (or the whole conversation) and follow the firm's data policy for client identifiers.
+
 ## Steps
 
 1. Identify the client with `list_clients` (use `search` for a name; if several match, ask which one). If the roster shows no analysis data on file, say so and point to the dashboard link in the output.

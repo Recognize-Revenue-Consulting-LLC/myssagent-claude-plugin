@@ -37,7 +37,7 @@ After signing in, ask: "List my clients." A roster table means the advisor tools
 
 ## Privacy
 
-The plugin and connector never ask for a Social Security number. Nothing typed into the public estimator is stored. Advisor tools return only the advisor's own clients, and client records are added in the dashboard, not through chat. Do not paste Social Security numbers or other identifiers into the conversation; they are not needed. Details: https://myssagent.com/privacy
+The plugin and connector never ask for a Social Security number. Nothing typed into the public estimator is stored. Advisor tools return only the advisor's own clients, and client records are added in the dashboard, not through chat. Tell advisors never to type a client's Social Security number, full date of birth, or account number into the chat; none of them are needed. If a Social Security number appears in the conversation, stop and handle it before anything else. Do not repeat it, and do not pass it to any tool. Tell the advisor right away: MySSAgent never needs one, so delete that message (or the whole conversation) and follow the firm's data policy for client identifiers. Details: https://myssagent.com/privacy
 
 ## What to avoid saying
 

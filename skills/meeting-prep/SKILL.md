@@ -13,6 +13,8 @@ Every Social Security figure in the brief must come from a MySSAgent tool's outp
 
 Do not give investment, tax, or legal advice. Do not make compliance, regulatory, or liability statements. Do not describe the analysis as reviewed or endorsed by anyone. The output is decision support for the advisor's professional judgment.
 
+If a Social Security number appears in the conversation, stop and handle it before anything else. Do not repeat it, and do not pass it to any tool. Tell the advisor right away: MySSAgent never needs one, so delete that message (or the whole conversation) and follow the firm's data policy for client identifiers.
+
 ## Steps
 
 1. Identify the client. If the advisor gave a name, call `list_clients` with `search` set to that name. If more than one client matches, list the matches (name and status only) and ask which one. If none match, say so and stop.
