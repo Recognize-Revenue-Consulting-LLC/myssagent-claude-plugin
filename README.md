@@ -2,7 +2,6 @@
 
 A Claude plugin that brings Social Security claiming support into an advisor's day: client meeting briefs, survivor checks, plain-English client drafts, and a quick estimator for prospects. It connects to the MySSAgent connector, so every figure comes from the MySSAgent engine.
 
-Status: v0.2.0. Wording, license and release order approved 2026-10-11. Submitted to the Claude plugin directory 2026-10-15; the repository goes public when the listing is approved.
 
 ## What it does
 
@@ -52,8 +51,6 @@ The skills also never give investment, tax, or legal advice, and they present re
 skills/<name>/SKILL.md       one folder per skill
 ```
 
-## Open items before any public release
+## License
 
-- LICENSE added: all rights reserved, use permitted under the MySSAgent terms (approved 2026-10-11).
-- A public GitHub repository is required for directory submission. Not created yet.
-- The connector listing must be live first (approved release order, 2026-10-11).
+Copyright (c) 2026 Recognize Revenue Consulting LLC. All rights reserved. Use is permitted under the MySSAgent Terms of Service (https://myssagent.com/terms). See LICENSE.

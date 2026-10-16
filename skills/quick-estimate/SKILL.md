@@ -38,4 +38,4 @@ Call `estimate_claiming_strategy`. Read the tool's current input schema and pass
 
 ## Close with one line
 
-Say that this is a directional estimate from user-supplied numbers, and that a full analysis from the actual earnings record, including spousal and survivor coordination, comes from a client analysis in the advisor dashboard (https://myssagent.com/advisors). Offer to pull a client report if the person is already a client.
+Say that this is a directional estimate from user-supplied numbers, and that a full analysis from the client's Social Security earnings record, including spousal and survivor coordination, comes from a client analysis in the advisor dashboard (https://myssagent.com/advisors). Offer to pull a client report if the person is already a client.

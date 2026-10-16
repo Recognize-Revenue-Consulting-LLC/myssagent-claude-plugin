@@ -1,8 +1,8 @@
 {
   "name": "myssagent-for-financial-advisors",
   "displayName": "MySSAgent for Financial Advisors",
-  "version": "0.2.0",
-  "description": "MySSAgent is a Social Security claiming analysis platform for financial advisors. It reads each client's actual earnings record and calculates claiming options to the month, including spousal and survivor benefits, following the Social Security Administration's published rules, including the Program Operations Manual System (POMS). This plugin brings that analysis into Claude: meeting-prep briefs, survivor checks and client-ready drafts, with every figure taken from the MySSAgent engine.",
+  "version": "0.2.1",
+  "description": "Turn Social Security claiming into a service that wins and keeps clients. MySSAgent analyzes each client's Social Security earnings record to the month, including spousal and survivor benefits, under SSA's published rules. Inside Claude, advisors get meeting-prep briefs, survivor checks and client-ready drafts, with every figure from the MySSAgent engine.",
   "author": {
     "name": "Recognize Revenue Consulting LLC",
     "url": "https://myssagent.com"
