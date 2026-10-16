@@ -2,7 +2,7 @@
 
 A Claude plugin that brings Social Security claiming support into an advisor's day: client meeting briefs, survivor checks, plain-English client drafts, and a quick estimator for prospects. It connects to the MySSAgent connector, so every figure comes from the MySSAgent engine.
 
-Status: v0.2.0, local build. Wording, license and release order approved by Trice 2026-10-11. Not published and not submitted anywhere.
+Status: v0.2.0. Wording, license and release order approved 2026-10-11. Submitted to the Claude plugin directory 2026-10-15; the repository goes public when the listing is approved.
 
 ## What it does
 
